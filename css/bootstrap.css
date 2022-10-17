@@ -5077,7 +5077,8 @@ textarea.input-group-sm>.input-group-btn>.btn {
 
 @media (min-width:768px) {
     .navbar-header {
-        float: left
+        float: left;
+        margin-left:-390px;
     }
 }
 
@@ -5287,8 +5288,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
         float: left
     }
     .navbar-nav>li>a {
-        padding-top: 15px;
-        padding-bottom: 15px
+        bottom: 440px;
     }
 }
 
