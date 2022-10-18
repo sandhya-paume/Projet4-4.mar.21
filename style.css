@@ -699,7 +699,7 @@ a {
 
 p {
     font-size: 30px;
-    padding-bottom: 40px;
+    padding-bottom: 100px;
 }
 
 .tight-width-whitespace {
@@ -1097,6 +1097,7 @@ h4 {
 .auteur_citation{
     font-size: 14px;
     color: black; 
+    text-align: end;
 }
 
 .descriptifs{
