@@ -447,7 +447,7 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
-    padding-right: 143px;
+    padding-left: 15px;
 }
 
 .mg-lg {
@@ -698,7 +698,8 @@ a {
 }
 
 p {
-    font-size: 35px;
+    font-size: 30px;
+    padding-bottom: 40px;
 }
 
 .tight-width-whitespace {
@@ -726,7 +727,7 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 25px;
     line-height: 1.4em;
 }
 
@@ -1074,7 +1075,7 @@ h4 {
 .realisations {
     font-size: 35px;
     color: black;
-    padding-bottom:50px;
+    padding-bottom: 30px;
 }
 
 .icon_description{
@@ -1084,7 +1085,7 @@ h4 {
 }
 
 .icon_web {
-    
+
 }
 
 .citation {
