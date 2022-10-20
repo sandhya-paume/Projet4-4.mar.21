@@ -485,23 +485,23 @@ button {
     box-shadow: 0 1px 3px rgba(0, 0, 1, .25), inset 0 1px 0 0 rgba(255, 255, 255, .15);
 }
 
+.icon-md{
+    font-size: 40px!important;
+}
+
 .icon-md-twitter {
-    font-size: 30px!important;
     color: #6b9ac3 ;
 }
 
 .icon-md-facebook{
-     font-size: 30px!important;
      color:#1f1f95;
 }
 
 .icon-md-instagram{
-     font-size: 30px!important;
      color:#efa620;
 }
 
 .icon-md-dribble{
-     font-size: 30px!important;
      color:#d58146; 
 }
 
@@ -739,7 +739,7 @@ p {
 }
 
 .social {
-    max-width: 500px;
+    max-width: 545px;
     margin: auto auto auto auto;
 }
 
@@ -1135,6 +1135,10 @@ h4 {
 .text-center{
     text-align: center;
     font-size: 18px;
+}
+
+.black{
+    font-size: 15px;
 }
 
 /*/<----------------------page contact------------------------->/*/
