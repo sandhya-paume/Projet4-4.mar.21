@@ -732,7 +732,7 @@ h2 {
 }
 
 h3 {
-    font-size: 20px;
+    font-size: 22px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
@@ -798,6 +798,7 @@ h4 {
 .tc-white {
     color: black;
     font-family: 'et-line';
+    font-size: 25px;
 }
 
 .btn-atomic-tangerine {
@@ -1113,6 +1114,11 @@ h4 {
     color: 00a2e3;
 }
 
+.text-center{
+    text-align: center;
+    font-size: 18px;
+}
+
 /*/<----------------------page contact------------------------->/*/
 
 #nom{
@@ -1144,7 +1150,7 @@ h4 {
 }
 
 
-    .titre_page_contact {
+.titre_page_contact {
     margin-left:680px;
     color: white;
     font-size: 40px;
