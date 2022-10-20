@@ -138,7 +138,7 @@ a:hover {
 }
 
     .d-bloc p a{
-        color: white;
+        color: black;
     }
 
     .d-bloc .a-btn:hover,
@@ -270,7 +270,7 @@ a:hover {
 }
 
 .voffset {
-    margin-top: 30px;
+    margin-top: 15px;
 }
 
 .voffset-lg {
@@ -703,7 +703,7 @@ p {
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
+    max-width: 910px;
     margin: auto auto auto auto;
 }
 
@@ -757,7 +757,8 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: black;
+    padding-bottom: 0px;
 }
 
 .portfolio-thumb {
@@ -765,8 +766,7 @@ h4 {
 }
 
 .portfolio-row {
-    margin-bottom: 44px;
-    margin-top: 50px;
+   
 }
 
 .avatar {
@@ -796,7 +796,7 @@ h4 {
 }
 
 .tc-white {
-    color: white;
+    color: black;
     font-family: 'et-line';
 }
 
@@ -814,6 +814,7 @@ h4 {
 
 .ltc-white {
     color: black;
+    font-size: 20px;
 }
 
 .ltc-white:hover {
@@ -1075,7 +1076,6 @@ h4 {
 .realisations {
     font-size: 35px;
     color: black;
-    padding-bottom: 30px;
 }
 
 .icon_description{
@@ -1094,10 +1094,15 @@ h4 {
     font-style: italic;
 }
 
+.les_citations{
+    font-size: 18px;
+    padding-bottom: 12px;
+}
+
 .auteur_citation{
     font-size: 14px;
     color: black; 
-    text-align: end;
+    text-align: center;
 }
 
 .descriptifs{
