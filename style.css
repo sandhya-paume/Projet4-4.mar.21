@@ -312,7 +312,7 @@ a:hover {
 
 .navbar-brand img {
     max-height: 200px;
-    margin: 0 0 0 90px;
+    margin: 0 0 0 745px;
     display: inline;
 }
 
@@ -821,15 +821,15 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: beige;
+    background: orangered;
     color: white;
     padding-left: 35px;
     padding-right: 35px;
 }
 
 .btn-atomic-tangerine:hover {
-    background: beige!important;
-    color: black!important;
+    background: orangered!important;
+    color: white!important;
 }
 
 .ltc-white {
