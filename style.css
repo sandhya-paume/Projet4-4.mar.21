@@ -715,8 +715,8 @@ a {
 }
 
 p {
-    font-size: 30px;
-    padding-bottom: 100px;
+    font-size: 25px;
+    padding-bottom: 78px;
 }
 
 .tight-width-whitespace {
@@ -744,12 +744,12 @@ p {
     margin: auto auto auto auto;
 }
 
-h2 {
+h3 {
     font-size: 25px;
     line-height: 1.4em;
 }
 
-h3 {
+h2 {
     font-size: 22px;
     text-transform: uppercase;
     font-weight: 700;
@@ -811,25 +811,25 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #edded6;
+    background-color: floralwhite;
 }
 
 .tc-white {
-    color: white;
+    color: black;
     font-family: 'et-line';
     font-size: 25px;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: beige;
     color: white;
     padding-left: 35px;
     padding-right: 35px;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #FFFFFF!important;
+    background: beige!important;
+    color: black!important;
 }
 
 .ltc-white {
@@ -1096,7 +1096,7 @@ h4 {
 .description_agence,
 .realisations {
     font-size: 35px;
-    color: white;
+    color: black;
 }
 
 .icon_description{
@@ -1137,6 +1137,7 @@ h4 {
 .text-center{
     text-align: center;
     font-size: 18px;
+
 }
 
 .black{
@@ -1176,7 +1177,7 @@ h4 {
 
 .titre_page_contact {
     margin-left:680px;
-    color: white;
+    color: black;
     font-size: 40px;
     margin-bottom:20px;
 }
