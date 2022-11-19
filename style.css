@@ -771,6 +771,7 @@ h1 {
 h4 {
     color: #333333!important;
     font-weight: bold;
+    font-size: 20px;
 }
 
 .icons {
@@ -1153,6 +1154,13 @@ h4 {
 }
 
 .text-icon{
+    text-align: center;
+    font-size: 18px;
+    color: black;
+
+}
+
+.text-client{
     text-align: center;
     font-size: 18px;
     color: black;
