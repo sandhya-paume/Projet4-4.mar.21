@@ -717,7 +717,7 @@ a {
 
 p {
     font-size: 30px;
-    padding-bottom: 78px;
+    
 }
 
 .tight-width-whitespace {
@@ -867,6 +867,7 @@ h4 {
 .bg-banniere {
     background-image: url("img/la-chouette-agence-banniere.jpg");
     filter: brightness(0.8);
+    margin-bottom: -38px;
 }
 
 .bg-presentation {
@@ -1145,6 +1146,7 @@ h4 {
 .text-center{
     text-align: center;
     font-size: 18px;
+    color: black;
 
 }
 
