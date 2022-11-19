@@ -134,7 +134,7 @@ a:hover {
 .d-bloc h4 a,
 .d-bloc h5 a,
 .d-bloc h6 a {
-    color: rgba(255, 255, 255, .6);
+    color: orangered;
 }
 
     .d-bloc p a{
@@ -743,6 +743,8 @@ p {
 .social {
     max-width: 545px;
     margin: auto auto auto auto;
+    margin-top: 15px;
+    margin-bottom: 45px;
 }
 
 h3 {
