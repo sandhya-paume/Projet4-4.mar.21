@@ -44,6 +44,7 @@ a:hover {
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
+    margin-bottom: 15px;
 }
 
 .bloc-lg {
@@ -295,10 +296,11 @@ a:hover {
 }
 
 .navbar {
-    margin-bottom: 0;
+    
     z-index: 1;
-    padding-left: 400px;
+    padding-right: 233px;
     margin-bottom: -25px;
+    margin-top: -60px;
 }
 
 .navbar-brand {
@@ -860,7 +862,7 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("");
 }
 
 .bg-lines-h2-bg {
