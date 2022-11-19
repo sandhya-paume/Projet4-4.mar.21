@@ -723,7 +723,7 @@ p {
 .tight-width-whitespace {
     max-width: 900px;
     margin: auto auto auto auto;
-    padding-bottom: 15px;
+    padding-bottom: 20px;
 }
 
 .h1 {
@@ -783,7 +783,7 @@ h4 {
 }
 
 .portfolio-thumb {
-    margin-bottom: 24px;
+    margin-bottom: 45px;
 }
 
 .portfolio-row {
