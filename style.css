@@ -94,7 +94,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    /*background: url("img/texture-paper.png");*/
+    /*background: url("img/texture-paper.avif");*/
     background-size: 280px 280px;
 }
 
@@ -866,17 +866,17 @@ h4 {
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/lines-h2-bg.avif");
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.png");
+    background-image: url("img/la-chouette-agence-banniere.avif");
     filter: brightness(0.8);
     margin-bottom: 0px;
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.png");
+    background-image: url("img/image-de-presentation.avif");
 }
 
 @media (max-width: 1024px) { /*/Tablette mode paysage/*/
