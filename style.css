@@ -139,7 +139,7 @@ a:hover {
 }
 
     .d-bloc p a{
-        color: #F3976C;
+        color: black;
     }
 
     .d-bloc .a-btn:hover,
@@ -781,7 +781,7 @@ h4 {
     margin-top: -50px;
 }
 
-.white {
+.black {
     color: black;
     padding-bottom: 0px;
     font-size: 25px;
@@ -822,7 +822,7 @@ h4 {
 }
 
 .tc-white {
-    color: black;
+    color: white;
     font-family: 'helvetica';
     font-size: 25px;
 }
