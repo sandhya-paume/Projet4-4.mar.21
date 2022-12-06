@@ -94,7 +94,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    /*background: url("img/texture-paper.avif");*/
+    background: url("img/texture-paper.avif");
     background-size: 280px 280px;
 }
 
@@ -818,7 +818,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: beige;
+    background-color: #F3976C;
 }
 
 .tc-white {
@@ -862,7 +862,7 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("");
+    background-image: url("img/dots-bg.avif");
 }
 
 .bg-lines-h2-bg {
