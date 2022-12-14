@@ -44,19 +44,24 @@ a:hover {
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
-    margin-bottom: 15px;
+ /*   margin-bottom: 15px;*/
 }
 
 .bloc-lg {
+    padding: 10px 10px;
+}
+
+.bloc-lg-contact {
     padding: 100px 50px;
 }
 
 .bloc-md {
-    padding: 50px;
+    padding-top: 70px;
+    padding-bottom: 30px;
 }
 
 .bloc-sm {
-    padding: 20px 50px;
+ /*   padding: 20px 50px;*/
 }
 
 .bg-center,
@@ -290,7 +295,7 @@ a:hover {
 }
 
 #bloc-1-hero h1 {
-    font-size: 80px;
+    font-size: 60px;
     margin-top: 45px;
     
 }
@@ -331,7 +336,6 @@ a:hover {
 }
 
 .navbar .nav {
-    right: -265px;
     float: right;
     z-index: 1;
     color: black;
@@ -815,7 +819,7 @@ h4 {
 
 .bgc-white {
     background-color: white;
-    margin-top: 40px;
+    margin-top: 25px;
 }
 
 .bgc-dark-slate-blue {
@@ -1189,28 +1193,28 @@ h4 {
 /*/<----------------------page contact------------------------->/*/
 
 #nom{
-    width:1435px;
+    width:400px;
     height: 18px;
     margin-left: 265px;
     margin-bottom:15px;
 }
 
 #email {
-    width: 1435px;
+    width: 400px;
     height: 18px;
     margin-left: 180px;
     margin-bottom: 15px;
 }
 
 #connaissance {
-    width: 1435px;
+    width: 400px;
     height: 18px;
     margin-bottom: 15px;
     margin-top:15px;
 }
 
 #message {
-    width: 1751px;
+    width: 400px;
     height: 150px;
     margin-bottom: 15px;
     margin-top: 15px;
