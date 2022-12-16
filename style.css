@@ -692,7 +692,7 @@ label,
 }
 
 h1,
-p{
+{
     text-align: center;
     }
 
@@ -726,7 +726,7 @@ a {
 }
 
 p {
-    font-size: 30px;
+    font-size: 15px;
     
 }
 
@@ -838,8 +838,6 @@ h4 {
 .btn-atomic-tangerine {
     background: #F3976C;
     color: black;
-    padding-left: 35px;
-    padding-right: 35px;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1183,7 +1181,7 @@ h4 {
     text-align: center;
     font-size: 18px;
     color: black;
-
+    margin-top: 30px;
 }
 
 .black{
@@ -1192,7 +1190,7 @@ h4 {
 
 /*/<----------------------page contact------------------------->/*/
 
-#nom{
+/*#nom{
     width:400px;
     height: 18px;
     margin-left: 265px;
@@ -1218,7 +1216,7 @@ h4 {
     height: 150px;
     margin-bottom: 15px;
     margin-top: 15px;
-}
+}*/
 
 
 .titre_page_contact {
@@ -1232,6 +1230,14 @@ h4 {
     font-size: 18px;
     color: black;
 
+}
+
+.form_align{
+    text-align: left;
+}
+
+.bloc_form{
+    text-align: center;
 }
 
 /*.encadre {
